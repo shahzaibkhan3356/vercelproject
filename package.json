@@ -1,6 +1,6 @@
 
    1 {
-   2   "name": "chat-notifier",
+   2   "name": "chatnotifier",
    3   "version": "1.0.0",
    4   "main": "index.js",
    5   "dependencies": {
